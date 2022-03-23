@@ -1,6 +1,6 @@
 # ZooApplication
 
-The first part of our Zoo Application. This features the use of Code-First Migrations to create our database, and WebAPI and LINQ to perform CRUD operations.
+This is an advanced iteration of the zoo application. This features the use of Code-First Migrations to create our database, and WebAPI and LINQ to perform CRUD operations.
 
 Videos which include this codebase:
 - [Building With ASP.NET - Project Setup](https://youtu.be/NSpYP1YW9p0)
